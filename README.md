@@ -2,7 +2,7 @@
 
 **E-RAG: Advancing Retrieval-Augmented Generation for Entity-oriented Question Answering**
 
-Author: 
+Author: Pingwy Wu, Jing Tang, Huimin Chen
 
 ## Pipeline
 ![pipeline](/assets/pipeline.png)
